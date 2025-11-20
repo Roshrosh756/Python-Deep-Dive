@@ -10,3 +10,4 @@ EUR_to_USD= 100/0.85
 
 print(USD, "USD is", round(USD_to_EUR, 2), "EUR")
 print(EUR, "EUR is", round(EUR_to_USD, 2), "USD")
+
