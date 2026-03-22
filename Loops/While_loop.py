@@ -16,5 +16,14 @@ while True:
  # change the behaviour of program.
  
 
+# n = int(input ("enter number upto which multiple of 3 or 5 is to be found "))
+# L = []
+# a = 1
+# while (a <= n):
+#     if a % 3 == 0 or a % 5 == 0:
+#         L.append (a)
+#     a +=1
+# print (f"list of multiples of 3 or 5 upto {n} is {L} " )
+
 
 

@@ -9,3 +9,4 @@ else:
 
 final_amount = total_purchase - discount
 print(f"Total bill after discount: NPR {final_amount:.2f}")
+
