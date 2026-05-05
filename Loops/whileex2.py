@@ -12,3 +12,8 @@ while i < len (L):
     i += 1
 print ("A is : " , A )
 print ("B is : " , B)
+### I will learn how to use while loop to iterate 
+# 
+# through list and apply condition to
+#  separate positive and negative numbers 
+# into two different lists.  

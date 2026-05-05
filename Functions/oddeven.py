@@ -1,10 +1,12 @@
-def number(a):
+# def number(a):
    
-    if a%2 == 0:
-        print("EVEN")
-    else:
-        print("ODD")
-num = int(input("enter a number: "))
-number(num)
+#     if a%2 == 0:
+#         print("EVEN")
+#     else:
+#         print("ODD")
+# num = int(input("enter a number: "))
+# number(num)
     
        
+fruits = ["apple", "banana", "cherry", "date", "elderberry"]
+print(fruits[-2])  
